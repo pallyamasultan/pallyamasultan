@@ -1,12 +1,25 @@
-- 👋 Hi, I’m @pallyamasultan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!-- Memanggil Gambar Banner -->
+<div align="center">
+  <img src="Blue Futuristic Technology LinkedIn Background Photo.png" alt="Osewa Pallyama Banner" width="100%" />
+</div>
 
-<!---
-pallyamasultan/pallyamasultan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<br />
+
+<!-- Bagian About Me bergaya Terminal -->
+### About Me
+```bash
+~/osewa $ whoami
+Osewa Pallyama - Front-End Developer, Indonesia
+
+~/osewa $ cat education.txt
+S1 Informatika, Universitas Sebelas April (IPK: 3.28)
+
+~/osewa $ cat skills_and_experience.txt
+Saya sangat bersemangat dalam membangun antarmuka digital yang interaktif dan 
+responsif. Saya memiliki pengalaman mengembangkan berbagai proyek website dan 
+aplikasi mobile (APK).
+- Tech Stack: HTML, CSS, JavaScript, Dart, PHP, MySQL, Web Design.
+- Fokus Penelitian (Skripsi): Systematic Literature Review Berbasis Analisis Kerentanan Autentikasi Biometrik Terhadap Ancaman Deepfake dan Sintesis Arsitektur Keamanan Berlapis.
+
+~/osewa $echo$STATUS
+Open to work! Siap untuk peluang baru sebagai Front-End Developer.
