@@ -12,14 +12,13 @@
 Osewa Pallyama - Front-End Developer, Indonesia
 
 ~/osewa $ cat education.txt
-S1 Informatika, Universitas Sebelas April (IPK: 3.28)
+B.Sc. in Informatics, Universitas Sebelas April (Ipk: 3.28)
 
 ~/osewa $ cat skills_and_experience.txt
-Saya sangat bersemangat dalam membangun antarmuka digital yang interaktif dan 
-responsif. Saya memiliki pengalaman mengembangkan berbagai proyek website dan 
-aplikasi mobile (APK).
+I am highly passionate about building interactive and responsive digital interfaces. 
+I have practical experience in developing various websites and mobile applications.
 - Tech Stack: HTML, CSS, JavaScript, Dart, PHP, MySQL, Web Design.
-- Fokus Penelitian (Skripsi): Systematic Literature Review Berbasis Analisis Kerentanan Autentikasi Biometrik Terhadap Ancaman Deepfake dan Sintesis Arsitektur Keamanan Berlapis.
+- Research Focus (Thesis): "Systematic Literature Review Berbasis Analisis Kerentanan Autentikasi Biometrik Terhadap Ancaman Deepfake dan Sintesis Arsitektur Keamanan Berlapis".
 
 ~/osewa $echo$STATUS
-Open to work! Siap untuk peluang baru sebagai Front-End Developer.
+Open to work! Actively looking for new opportunities as a Front-End Developer.
