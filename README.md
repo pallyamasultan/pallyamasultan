@@ -1,11 +1,11 @@
-<!-- Memanggil Gambar Banner -->
+<!-- 1. BAGIAN BANNER -->
 <div align="center">
   <img src="Blue Futuristic Technology LinkedIn Background Photo.png" alt="Osewa Pallyama Banner" width="100%" />
 </div>
 
 <br />
 
-<!-- Bagian About Me bergaya Terminal -->
+<!-- 2. BAGIAN ABOUT ME (TERMINAL) -->
 ### About Me
 ```bash
 ~/osewa $ whoami
