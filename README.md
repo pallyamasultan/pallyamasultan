@@ -10,7 +10,7 @@
 
 ---
 
-## 🎯 About Me
+##  About Me
 
 ```bash
 ~ osewa $ whoami
@@ -34,69 +34,90 @@ Open to work! Actively looking for new opportunities as a Front-End Developer.
 
 ---
 
-## 💻 Tech Stack
-
-### 🎨 Frontend Technologies
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</div>
-
-### 🔧 Backend & Database
-<div>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</div>
-
-### 🛠️ Tools & Platforms
-<div>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<a href="https://github.com/pallyamasultan/project-name-1">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pallyamasultan&repo=project-name-1&title_color=ffffff&text_color=c9cacc&icon_color=4F8CC9&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/pallyamasultan/project-name-2">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pallyamasultan&repo=project-name-2&title_color=ffffff&text_color=c9cacc&icon_color=4F8CC9&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/pallyamasultan/portfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=pallyamasultan&repo=portfolio&title_color=ffffff&text_color=c9cacc&icon_color=4F8CC9&bg_color=1d1f21" />
-</a>
-
----
-
-## 📊 GitHub Statistics
+##  Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pallyamasultan&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,python,php,dart,c,html,css&theme=dark&perline=10" alt="Languages"/>
+
+<br/><br/>
+
+**Frontend & Mobile**
+
+<img src="https://skillicons.dev/icons?i=flutter,nextjs,tailwind&theme=dark&perline=10" alt="Frontend"/>
+
+<br/><br/>
+
+**Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,mysql,firebase,nginx&theme=dark&perline=10" alt="Backend"/>
+
+<br/><br/>
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=opencv,selenium,vscode,git,github,postman&theme=dark&perline=10" alt="Tools"/>
+
 </div>
+
+<br/>
+
+##  GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pallyamasultan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&border_radius=10&include_all_commits=true&count_private=true&hide=contribs&custom_title=My%20GitHub%20Statistics" height="175" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pallyamasultan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&border_radius=10&langs_count=8&custom_title=My%20Programming%20Languages" height="175" alt="Top Languages"/>
+</div>
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pallyamasultan&layout=compact&theme=dark" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pallyamasultan/pallyamasultan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pallyamasultan/pallyamasultan/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/pallyamasultan/pallyamasultan/output/github-snake.svg" />
+  </picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallyamasultan&theme=dark" />
-</div>
+<br/>
 
----
+##  Project
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Nimexx App</h3>
+      <p>Aplikasi streaming anime interaktif dengan antarmuka modern dan responsif untuk pengalaman menonton yang lancar.</p>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Mounthub</h3>
+      <p>Website portal pendakian gunung yang menyediakan panduan, rute, dan informasi lengkap untuk para pendaki.</p>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Aplikasi Ujian FEB UNSAP</h3>
+      <p>Platform ujian akademik untuk Fakultas Ekonomi dan Bisnis UNSAP yang dapat diakses melalui website dan aplikasi mobile.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Admin Dashboard FEB UNSAP</h3>
+      <p>Sistem manajemen pusat (dashboard) untuk mengelola data peserta, soal, dan penilaian pada platform ujian FEB UNSAP.</p>
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
-## 💼 What I Do
+<br/>
+
+##  What I Do
 
 - 🔨 **Building responsive and interactive web applications** using React and modern frontend frameworks
 - 📱 **Creating mobile-friendly designs** with CSS Grid, Flexbox, and Tailwind CSS
@@ -107,7 +128,7 @@ Open to work! Actively looking for new opportunities as a Front-End Developer.
 
 ---
 
-## 🌱 Currently Learning
+##  Currently Learning
 
 - Advanced React patterns (Hooks, Context API, Redux)
 - Web performance optimization techniques
@@ -117,7 +138,7 @@ Open to work! Actively looking for new opportunities as a Front-End Developer.
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
 <div align="center">
   
@@ -127,7 +148,7 @@ Open to work! Actively looking for new opportunities as a Front-End Developer.
 
 ---
 
-## 📞 Connect With Me
+##  Connect With Me
 
 <div align="center">
   
@@ -159,7 +180,7 @@ Open to work! Actively looking for new opportunities as a Front-End Developer.
 
 ---
 
-## ⚡ Fun Fact
+##  Fun Fact
 
 - ☕ Coffee enthusiast - I code better with a cup of coffee!
 - 🎮 Gamer at heart - I enjoy gaming in my free time
@@ -169,7 +190,7 @@ Open to work! Actively looking for new opportunities as a Front-End Developer.
 
 ---
 
-## 📈 Activity
+##  Activity
 
 ![github graph](https://github-readme-activity-graph.vercel.app/graph?username=pallyamasultan&theme=react-dark&hide_border=true)
 
