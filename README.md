@@ -82,7 +82,6 @@ Open to work! Actively looking for new opportunities as a Front-End Developer.
 </div>
 
 <br/>
-
 ##  Project
 <table>
   <tr>
